@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+.about{
+    color: white;
+    /* width: 70%; */
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+.about p{
+    size: 1rem;
+}
