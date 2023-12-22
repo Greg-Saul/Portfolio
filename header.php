@@ -13,7 +13,7 @@
 
     <nav>
         <a href="index.php">Home</a>
-        <a href="#">Resume</a>
+        <a href="resume.php">Resume</a>
         <a href="#">Projects</a>
         <a href="#">Contact</a>
     </nav>

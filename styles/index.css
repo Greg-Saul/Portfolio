@@ -3,12 +3,24 @@ html{
 }
 .about{
     color: white;
-    /* width: 70%; */
     margin: auto;
     width: 70%;
     padding: 10px;
+    height: 34rem;
+    margin-top: 2rem;
 }
 
 .about p{
     size: 1rem;
 }
+.about div{
+    float: left;
+    width: 50%;
+    display: block;
+    color: white;
+}
+
+#homePic{
+    height: 32rem;
+}
+

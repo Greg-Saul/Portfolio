@@ -7,7 +7,7 @@ body {
 header {
     /* background-color: #333; */
     font-size: large;
-    color: grey;
+    color: #444;
     text-align: center;
     padding: 15px;
     background-image: url("../images/wood.jpg");
